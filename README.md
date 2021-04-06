@@ -1,8 +1,7 @@
 ### Hello World 👋
 
 
-- 🔭 I’m currently working on #100DayofCode challenge with Python. 
-- 🌱 I’m currently learning Azure Fundamentals. 
+- 🌱 I’m currently learning Fundamentals of Data Analysis  
 - 👯 I’m looking to collaborate on DevOps Projects. 
 - 📫 How to reach me: https://www.linkedin.com/in/andrea-torres-j/
 
