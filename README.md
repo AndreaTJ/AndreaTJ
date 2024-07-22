@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrea Torres</h1>
-<h3 align="center">A DevOps Engineer with a passion for DataOps and Data Analysis</h3>
+<h3 align="center">Junior Python Developer with a passion for DevOps</h3>
 
-- 🔭 I’m currently working on [Tech Girls Glovo Data Analysis Project](https://github.com/AndreaTJ/Tech-Girls-Glovo)
-- 👯 I’m looking to collaborate on impactful [DevOps Projects](https://github.com/GMCADevops/Sfia-DevOps-Project-3)
-- 🌱 Expanding my expertise by studying the Fundamentals of Data Analysis
+- 👯 I’m looking to collaborate on impactful Python projects, including automation and web development 
+- 🔭 I recently completed the [Tech Girls Glovo Data Analysis Project](https://github.com/AndreaTJ/Tech-Girls-Glovo)
 - 📫 Reach out to me at **andrea.torres.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
