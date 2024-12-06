@@ -2,7 +2,7 @@
 <h3 align="center">Junior Python Developer with a passion for DevOps</h3>
 
 - 👯 I’m looking to collaborate on impactful Python projects, including automation and web development 
-- 🔭 I recently completed the [Predicción de Precios de Airbnb en Madrid](https://github.com/AndreaTJ/Tech-Girls-Glovo)
+- 🔭 I recently completed the [Predicción de Precios de Airbnb en Madrid](https://github.com/AndreaTJ/Tech-Girls-Glovo), applying data analysis.
 - 📫 Reach out to me at **andrea.torres.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
